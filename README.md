@@ -14,7 +14,7 @@
 
 ## 💡구현 기능 소개
 ✅식사 입력하기<br/>
-학식 장소 선택 (상록원 2층, 상록원 3층, 기숙사 등)<br/>
+학식 장소 선택 (상록원 1층, 상록원 2층, 상록원 3층, 기숙사 식당)<br/>
 음식 사진 입력<br/>
 음식과 반찬 이름 입력 (커피 등의 음료인 경우 음료수 이름 입력)<br/>
 음식 소감 또는 평 입력<br/>
@@ -33,3 +33,6 @@
 
 ## ⚙️TOOL
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+
+
+## 🔗시연동영상
