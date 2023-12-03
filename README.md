@@ -9,7 +9,7 @@
 
 
 ## 📂프로젝트 소개
-<img src="https://github.com/jebomin/Mobilesoftware_TeamProject/assets/42407430/8e1e8ff5-ac5b-4ebd-94f3-696c3de78c52">
+<img src="https://github.com/jebomin/Mobilesoftware_TeamProject/assets/42407430/8e1e8ff5-ac5b-4ebd-94f3-696c3de78c52" width="200" height="200"><br/>
 학생식당 및 교내 커피 샵에 대한 개인 관리 프로그램 제작
 
 
