@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoblieSoftwareProject</string>
+    <string name="date">10월 17일 월요일</string>
+    <string name="type">Breakfast</string>
+    <string name="time">오전 8:00</string>
+    <string name="name">김치찌개</string>
+    <string name="kcal">500kcal</string>
+    <string name="place">xx 백반집</string>
+    <string name="review">먹을 만한데 넘 비쌈</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="money">10000</string>
+</resources>
