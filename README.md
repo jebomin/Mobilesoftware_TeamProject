@@ -1,6 +1,11 @@
 # 🍕Mobilesoftware_TeamProject
 ## ⏰ 개발 기간
-- 2023.11.09~2023.12.10
+2023.11.09~2023.12.10
+
+## 📂프로젝트 소개
+<img src="https://github.com/jebomin/Mobilesoftware_TeamProject/assets/42407430/8e1e8ff5-ac5b-4ebd-94f3-696c3de78c52" width="200" height="200"><br/>
+학생식당 및 교내 커피 샵에 대한 개인 관리 프로그램 제작
+
   
 ## 🤭TEAM
 |제보민|채윤승|
@@ -9,11 +14,6 @@
 |[jebomin](https://github.com/jebomin)|[chamcihn](https://github.com/chamcihn)|
 |<img src="https://github.com/jebomin/Mobilesoftware_TeamProject/assets/42407430/aa55eef2-6179-4b70-a220-66a299bcbda6" width="200" height="200">|<img src="https://github.com/jebomin/Mobilesoftware_TeamProject/assets/42407430/bef6c2e9-6983-4bd3-9099-c66a3eec89f7" width="200" height="200">|
 |메인 화면,<br/>식사 입력하기,<br/>식사 보여주기|식사 분석하기,<br/>보고서 작성,<br/>시연 동영상 촬영|
-
-
-## 📂프로젝트 소개
-<img src="https://github.com/jebomin/Mobilesoftware_TeamProject/assets/42407430/8e1e8ff5-ac5b-4ebd-94f3-696c3de78c52" width="200" height="200"><br/>
-학생식당 및 교내 커피 샵에 대한 개인 관리 프로그램 제작
 
 
 ## 💡구현 기능 소개
