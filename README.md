@@ -39,3 +39,4 @@
 
 
 ## 🔗시연동영상
+[시연동영상](https://youtu.be/KWeDhT62-bY)
